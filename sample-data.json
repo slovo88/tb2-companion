@@ -1,0 +1,117 @@
+{
+  "campaigns": [
+    {
+      "id": 123,
+      "name": "string",
+      "isCompleted": false,
+      "completeDate": "",
+      "startDate": "",
+
+      "campaignCharacters": [
+        {
+          "characterName": "string",
+          "playerName": "string",
+          "fameTrackLevel": 0,
+          "xpCount": 0,
+          "fruitCount": 0,
+          "woundCount": 0,
+          "chapter": 0,
+          "difficulty": "low|high",
+          "pathAdvancements": {
+            "pathOne": {
+              "name": "string",
+              "pointCount": 0
+            },
+            "pathTwo": {
+              "name": "string",
+              "pointCount": 0
+            }
+          },
+          "traitLevels": {
+            "synergy": 0,
+            "spirit": 0,
+            "focus": 0,
+            "resilience": 0
+          },
+          "skills": {
+            "skillOne": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 3,
+              "skillPointCount": 0
+            },
+            "skillTwo": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillThree": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillFour": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillFive": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillSix": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillSeven": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillEight": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 1,
+              "skillPointCount": 0
+            },
+            "skillNine": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 3,
+              "skillPointCount": 0
+            },
+            "skillTen": {
+              "skillName": "string",
+              "skillDescription": "string",
+              "maxSkillPointCount": 3,
+              "skillPointCount": 0
+            }
+          },
+          "narrativeNotes": [
+            "string"
+          ]
+        }
+      ],
+      "removedCards": [
+        {
+          "cardName": "string"
+        }
+      ],
+      "naviriEncounters": [
+        {
+          "dateOfEncounter": "string",
+          "encounterName": "string",
+          "decision": "string"
+        }
+      ]
+    }
+  ]
+}
